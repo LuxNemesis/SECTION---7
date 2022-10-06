@@ -1,0 +1,305 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto&family=Roboto+Slab:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto&display=swap');
+
+/* -------------------------------------------- SECTION - 7 -------------------------------------------- */
+
+body {
+    background-color: #9DC9C8;   
+}
+h1 {
+      font-family: 'Roboto Slab';
+      font-weight: 700;
+      font-size: 55px;
+      line-height: 101.38%;
+      width: 908px;
+      height: 66px;
+      left: 122px;
+      top: 179px;
+      right: 410px;
+      bottom: 535px;   
+      position: absolute;
+}
+.subtitle {
+    font-family: 'Roboto';
+    font-size: 25px;
+    line-height: 101.38%;
+    font-weight: 400;
+    color: black;
+    top: 299px;
+    left: 121px;
+    bottom: 449px;
+    right: 1148px;
+    font-style: normal;
+    position: absolute;
+}
+.money {
+    position:absolute;
+    width: 481px;
+    height: 181px;
+    left: 121px;
+    top: 329px;
+    bottom: 270px;
+    right: 837px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 101.38%;
+    color: black;
+    margin-top: 20px;
+}
+.infotitle1 {
+    width: 294px;
+    height: 32px;
+    left: 121px;
+    top: 484px;
+    bottom: 264px;
+    right: 1024px;
+    position: absolute;
+    font-size: 25px;
+    line-height: 101.38%;
+    color: black;
+    font-family: 'Roboto';
+    font-style: normal;
+}
+.info1 {
+    position: absolute;
+    width: 294px;
+    height: 70px;
+    left: 121px;
+    right: 1024px;
+    top: 525px;
+    bottom: 185px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 101.38%;
+}
+.infotitle2 {
+    position: absolute;
+    width: 322px;
+    height: 32px;
+    left: 485px;
+    top: 484px;
+    bottom: 264px;
+    right: 632px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+}
+.info2 {
+    position: absolute;
+    width: 294px;
+    height: 70px;
+    left: 485px;
+    right: 660px;
+    top: 525px;
+    bottom: 185px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 101.38%;
+}
+
+
+
+@media (min-width:992px) and (max-width:1279px){
+   .section-7 {
+      position: relative;
+      bottom: 3000px !important;
+   }
+   h1 {
+    position: absolute;
+    width: 525.88px;
+    height: 38.23px;
+    left: 70.66px;
+    top: 3226.42px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 101.38%;
+    color: #000000;
+ }
+ .subtitle {
+    position: absolute;
+    width: 98.46px;
+    height: 18.53px;
+    left: 70.66px;
+    top: 3295.92px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 101.38%;
+    color: #000000;
+ }
+ .money {
+    position: absolute;
+    width: 278.58px;
+    height: 104.83px;
+    left: 70.66px;
+    top: 3313.3px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 101.38%;
+    color: #000000;
+ }
+ .infotitle1 {
+    position: absolute;
+    width: 170.28px;
+    height: 18.53px;
+    left: 70.66px;
+    top: 3403.07px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 101.38%;
+    color: #000000;
+ }
+ .info1 {
+    position: absolute;
+    width: 170.28px;
+    height: 40.54px;
+    left: 70.66px;
+    top: 3426.81px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 101.38%;
+    color: #000000;
+ }
+ .infotitle2 {
+    position: absolute;
+    width: 186.49px;
+    height: 18.53px;
+    left: 281.47px;
+    top: 3403.07px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 101.38%;
+    color: #000000;
+ }
+ .info2 {
+    position: absolute;
+    width: 170.28px;
+    height: 40.54px;
+    left: 281.47px;
+    top: 3426.81px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 101.38%;
+    color: #000000;
+ }
+}
+@media(min-width:320px) and (max-width:991px){
+   .section-7 {
+      position: relative;
+      bottom: 3750px !important;
+   } 
+   h1 {
+    position: absolute;
+    width: 224px;
+    height: 63px;
+    left: 34px;
+    top: 3972px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 101.38%;
+    color: #000000;
+ }
+ .subtitle {
+    position: absolute;
+    width: 79.22px;
+    height: 14.91px;
+    left: 33.85px;
+    top: 4057.33px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 101.38%;
+    color: #000000;
+ }
+ .money {
+    position: absolute;
+    width: 224.13px;
+    height: 84.34px;
+    left: 33.85px;
+    top: 4071.3px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 37px;
+    line-height: 101.38%;
+    color: #000000;
+ }
+ .infotitle1 {
+    position: absolute;
+    width: 137px;
+    height: 14.91px;
+    left: 34.85px;
+    top: 4143.53px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 101.38%;
+    color: #000000;
+ }
+ .info1 {
+    position: absolute;
+    width: 138px;
+    height: 47px;
+    left: 34px;
+    top: 4163px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 101.38%;
+    color: #000000;
+ }
+ .infotitle2 {
+    position: absolute;
+    width: 151px;
+    height: 14px;
+    left: 203px;
+    top: 4144px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 101.38%;
+    color: #000000;
+ }
+ .info2 {
+    position: absolute;
+    width: 140px;
+    height: 38px;
+    left: 203px;
+    top: 4163px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 101.38%;
+    color: #000000;
+ }
+}
+
+/* -------------------------------------------- SECTION - 7 -------------------------------------------- */
